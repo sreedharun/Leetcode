@@ -63,5 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sreedharun/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sreedharun/Leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sreedharun/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
