@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sreedharun/Leetcode/tree/master/0015-3sum) |
+| [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/sreedharun/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/sreedharun/Leetcode/tree/master/0994-rotting-oranges) |
@@ -52,10 +53,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/sreedharun/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
