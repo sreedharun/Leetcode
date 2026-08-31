@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/sreedharun/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/sreedharun/Leetcode/tree/master/0994-rotting-oranges) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sreedharun/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreedharun/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreedharun/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sreedharun/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/sreedharun/Leetcode/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sreedharun/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
