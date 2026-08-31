@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sreedharun/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/sreedharun/Leetcode/tree/master/0072-edit-distance) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sreedharun/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0072-edit-distance](https://github.com/sreedharun/Leetcode/tree/master/0072-edit-distance) |
 ## Recursion
 |  |
 | ------- |
