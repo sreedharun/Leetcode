@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sreedharun/Leetcode/tree/master/0015-3sum) |
 | [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sreedharun/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sreedharun/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreedharun/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sreedharun/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sreedharun/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreedharun/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreedharun/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sreedharun/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/sreedharun/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
