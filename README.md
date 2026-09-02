@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sreedharun/Leetcode/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/sreedharun/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sreedharun/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sreedharun/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sreedharun/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/sreedharun/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/sreedharun/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sreedharun/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreedharun/Leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sreedharun/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
