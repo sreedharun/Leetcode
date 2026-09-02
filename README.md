@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sreedharun/Leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sreedharun/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sreedharun/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/sreedharun/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreedharun/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreedharun/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sreedharun/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
