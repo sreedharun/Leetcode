@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sreedharun/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/sreedharun/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sreedharun/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sreedharun/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sreedharun/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/sreedharun/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sreedharun/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/sreedharun/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sreedharun/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sreedharun/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreedharun/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sreedharun/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sreedharun/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
