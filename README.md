@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sreedharun/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sreedharun/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sreedharun/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sreedharun/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sreedharun/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreedharun/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sreedharun/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sreedharun/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/sreedharun/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreedharun/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreedharun/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sreedharun/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/sreedharun/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
