@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/sreedharun/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/sreedharun/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2685-count-the-number-of-complete-components](https://github.com/sreedharun/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sreedharun/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sreedharun/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/sreedharun/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2685-count-the-number-of-complete-components](https://github.com/sreedharun/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sreedharun/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/sreedharun/Leetcode/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/sreedharun/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sreedharun/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sreedharun/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/sreedharun/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
