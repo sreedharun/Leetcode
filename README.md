@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreedharun/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sreedharun/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sreedharun/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sreedharun/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sreedharun/Leetcode/tree/master/1020-number-of-enclaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sreedharun/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/sreedharun/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/sreedharun/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreedharun/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sreedharun/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sreedharun/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
