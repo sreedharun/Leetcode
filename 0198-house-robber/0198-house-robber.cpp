@@ -1,12 +1,13 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-       int p1=0,p2=nums[0];
-       for(int i=1;i<nums.size();i++){
-            int cur=max(p2,p1+nums[i]);
-            p1=p2;
-            p2=cur;
-       }
-       return p2; 
+        int n=nums.size();
+        vector<int> tp(n+1);
+        tp[0]=0;
+        tp[1]=nums[0];
+        for(int i=2;i<=n;i++){
+            tp[i]=max(tp[i-1],tp[i-2]+nums[i-1]);
+        }
+        return tp[n];
     }
 };
