@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sreedharun/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreedharun/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sreedharun/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sreedharun/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sreedharun/Leetcode/tree/master/0437-path-sum-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreedharun/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sreedharun/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sreedharun/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sreedharun/Leetcode/tree/master/0437-path-sum-iii) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sreedharun/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sreedharun/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sreedharun/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sreedharun/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/sreedharun/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sreedharun/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreedharun/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sreedharun/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sreedharun/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sreedharun/Leetcode/tree/master/0437-path-sum-iii) |
