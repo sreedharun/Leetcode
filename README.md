@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sreedharun/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/sreedharun/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sreedharun/Leetcode/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/sreedharun/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sreedharun/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/sreedharun/Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sreedharun/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sreedharun/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sreedharun/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## DP on Trees
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sreedharun/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/sreedharun/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Memoization
 |  |
 | ------- |
@@ -294,4 +297,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sreedharun/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sreedharun/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sreedharun/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sreedharun/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
