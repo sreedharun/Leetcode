@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sreedharun/Leetcode/tree/master/0139-word-break) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreedharun/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreedharun/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sreedharun/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sreedharun/Leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sreedharun/Leetcode/tree/master/0139-word-break) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sreedharun/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sreedharun/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
 |  |
 | ------- |
